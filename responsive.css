@@ -1,0 +1,392 @@
+/*responsive css code Start*/
+
+/*gelaxi*/
+
+@media (min-width: 279px) and (max-width: 319px){
+    .container{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-3{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .col-lg-9{
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+    .col-lg-9 .navbar{
+        text-align: center;
+    }
+    .col-lg-9 .navbar li{
+        padding-right: 10px;
+    }
+    .col-lg-9 .navbar li a{
+        font-size: 13px;
+    }
+    .about h1{
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .about img{
+        width: 200px;
+    }
+    .about{
+       overflow: hidden;
+    }
+    .success{
+        width: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .success .sonkha{
+        width: 50%;
+        float: left;
+        margin-right: 0;
+    }
+    .success .likha{
+        width: 50%;
+        float: right;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .success .sonkha h1{
+        font-size: 13px;
+    }
+    .success .sonkha p{font-size: 10px;}
+    .likha h1{
+        font-size: 20px;
+    }
+    .feature{
+        width: 100%;
+        float: left;
+    }
+    .containera{
+        width: 100%;
+        float: left;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-4{
+        width: 95%;
+        float: left;
+        overflow: hidden;
+        margin-bottom: 5px;
+    }
+    .col-lg-4 .inner img{
+        width: 120px;
+    }
+    .col-lg-4 .inner h3{
+        padding-top: 0px;
+    }
+    .col-lg-4 .inner p{}
+}
+/*most smartphone*/
+
+@media (min-width: 320px) and (max-width: 480px){
+    .container{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-3{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .col-lg-9{
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+    .col-lg-9 .navbar{
+        text-align: center;
+    }
+    .col-lg-9 .navbar li{
+        padding-right: 10px;
+    }
+    .col-lg-9 .navbar li a{
+        font-size: 13px;
+    }
+    .about h1{
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .about img{
+        width: 200px;
+    }
+    .about{
+       overflow: hidden;
+    }
+    .success{
+        width: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .success .sonkha{
+        width: 50%;
+        float: left;
+        margin-right: 0;
+    }
+    .success .likha{
+        width: 50%;
+        float: right;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .success .sonkha h1{
+        font-size: 13px;
+    }
+    .success .sonkha p{font-size: 10px;}
+    .likha h1{
+        font-size: 20px;
+    }
+    .feature{
+        width: 100%;
+        float: left;
+    }
+    .containera{
+        width: 100%;
+        float: left;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-4{
+        width: 95%;
+        float: left;
+        overflow: hidden;
+        margin-bottom: 5px;
+    }
+    .col-lg-4 .inner img{
+        width: 120px;
+    }
+    .col-lg-4 .inner h3{
+        padding-top: 0px;
+    }
+    .col-lg-4 .inner p{}
+}
+/*  */
+@media (min-width: 481px) and (max-width: 767px){
+    .container{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-3{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .col-lg-3 img{
+        width: 150px;
+    }
+    .col-lg-9{
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+    .col-lg-9 .navbar{
+        text-align: center;
+    }
+    .col-lg-9 .navbar li{
+        padding-right: 25px;
+        padding-bottom: 15px;
+    }
+    .col-lg-9 .navbar li a{
+        font-size: 18px;
+    }
+    .about{
+        margin-top: 30px;
+    }
+    .about h1{
+        font-size: 25px;
+        margin-top: 10px;
+    }
+    .about p{
+        font-size: 18px;
+    }
+    .about img{
+        width: 300px;
+
+    }
+    .about{
+       overflow: hidden;
+    }
+    .success{
+        width: 100%;
+        float: left;
+        overflow: hidden;
+        margin-top: 50px;
+    }
+    .success .sonkha{
+        width: 50%;
+        float: left;
+        margin-right: 0;
+    }
+    .success .likha{
+        width: 50%;
+        float: right;
+        text-align: center;
+        padding-top: px;
+    }
+    .success .sonkha h1{
+        font-size: 29px;
+    }
+    .success .sonkha h1{
+        font-size: 29px;
+    }
+    .success .sonkha p{font-size: 15px;
+   
+    }
+    .likha h1{
+        font-size: 22px;
+        line-height: 45px;
+    }
+    .feature{
+        width: 100%;
+        float: left;
+    }
+    .containera{
+        width: 100%;
+        float: left;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-4{
+        width: 95%;
+        float: left;
+        overflow: hidden;
+        margin-bottom: 5px;
+    }
+    .col-lg-4 .inner img{
+        width: 170px;
+    }
+    .col-lg-4 .inner h3{
+        font-size: 20px;
+        padding-top: 0px;
+    }
+    .col-lg-4 .inner p{
+        font-size: 16px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+    .container{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-3{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .col-lg-3 img{
+        width: 200px;
+    }
+    .col-lg-9{
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+    .col-lg-9 .navbar{
+        text-align: center;
+    }
+    .col-lg-9 .navbar li{
+        padding-right: 50px;  padding-bottom: 25px;
+    }
+    .col-lg-9 .navbar li a{
+        font-size: 23px;
+      
+    }
+    .about h1{
+        font-size: 40px;
+        margin-top: 40px;
+        line-height: 60px;
+    }
+    .about img{
+        width: 400px;
+    }
+    .about p{
+        font-size: 25px;
+        line-height: 35px;
+        font-family: serif;
+
+    }
+    .about{
+       overflow: hidden;
+    }
+    .success{
+        width: 100%;
+        float: left;
+        overflow: hidden;
+        margin-top: 50px;
+    }
+    .success .sonkha{
+        width: 50%;
+        float: left;
+        margin-right: 0;
+    }
+    .success .likha{
+        width: 50%;
+        float: right;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .success .sonkha h1{
+        font-size: 37px;
+    }
+    .success .sonkha p{font-size: 25px;
+    line-height: 35px;}
+    .likha h1{
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .feature{
+        width: 100%;
+        float: left;
+    }
+    .containera{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-lg-4{
+        width: 95%;
+        float: left;
+        overflow: hidden;
+        margin-bottom: 5px;
+    }
+    .col-lg-4 .inner img{
+        width: 120px;
+    }
+    .col-lg-4 .inner h3{
+        padding-top: 0px;
+    }
+    .col-lg-4 .inner p{}
+}
